@@ -1,6 +1,6 @@
 # Before Moving to React Installation
 ### Install xampp
-####Navigate to xampp and start the server apache and mysql 
+### Navigate to xampp and start the server apache and mysql 
 ### Create database 
 ### Copy the database file word_dictionary.sql and import into your phpmyadmin
 ### Navigate to the laravel folder after extraction change the database name in the .env file to whatever you choose.
